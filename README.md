@@ -2,6 +2,9 @@
 
 Create an Netflix Clone Home page  using web 3.
 
+Live Page
+https://divraj-m.github.io/Netflix_Clone/
+
 
 ![Capture](https://github.com/Divraj-7/Netflix_Clone/assets/138122681/957e6da1-bc97-4b49-92b6-fb10fee506e1)
 
